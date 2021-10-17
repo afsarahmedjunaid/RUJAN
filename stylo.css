@@ -1,0 +1,63 @@
+.head{
+	background-color: #333;
+	color: white;
+	font-size: 40px;
+	font-family: arial black;
+	text-align: center;
+}
+.nav a{
+	display: block;
+	background-color: #ddd;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+.side{
+	background-color: #F1ECC3;
+	color: black;
+	font-size: 24px;
+	text-align: center;
+	width: 470px;
+	float: left;
+
+
+}
+
+.sider{
+	overflow: hidden;
+}
+.class{
+	background-color: gray;
+	color: white;
+	font-size: 16px;
+	width: 700px;
+	float: right;
+
+}
+.class p{
+	text-align: center;
+}
+.class h1{
+	text-align: center;
+}
+
+.footer{
+	background-color: skyblue;
+	text-align: center;
+	font-size: 25px;
+	color: black;
+
+}
+
+.container{
+	width: 1170px;
+	margin: auto;
+}
+.js h2 p{
+	text-align: center;
+}
+.jaba{
+	text-align: center;
+}
